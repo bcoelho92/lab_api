@@ -1,3 +1,4 @@
-echo "# lab_api" >> 
+from fastapi import FastAPI
+
 
 

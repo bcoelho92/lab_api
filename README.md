@@ -14,5 +14,13 @@ git push -u origin main
 
 - Ambiente virtual
 
+python3 -m venv nome_do_ambiente_virtual
+
+pip install fastapi
+pip install pandas
+pip install uvicorn
+
+
+
 
 
